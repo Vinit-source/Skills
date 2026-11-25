@@ -3,7 +3,8 @@ Agent Skills created by me that helped during challenging times :)
 
 ### 1. [Interviewer Viva Skill](https://github.com/Vinit-source/Skills/tree/interviewer-viva-skill/viva):
 ##### Interviewer skill prepared during PhD interview preparation for IITs
-This skill helped me a lot to get a compounded support during my interview preparation for PhD and IITs:
+This skill helped me a lot to get a compounded support during my interview preparation for PhD and IITs.
+
 It features:
 - concept revision 
 - exploring missing links in your understanding
