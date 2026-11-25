@@ -9,7 +9,7 @@ It features:
 - concept revision 
 - exploring missing links in your understanding
 -  very granular feedback on your answers
-- #Vivek: Supportive real-time assistant that comes to rescue and adapts to your level of understanding with analogies from your background and previously answered confident questions
+- Introducing 🧑‍🎓 **Vivek**: Supportive real-time assistant that comes to rescue and adapts to your level of understanding with analogies from your background and previously answered confident questions
 - Effective grouping of topics and formulation of questions
 - Progress report and formula list maintained alongside.
 
